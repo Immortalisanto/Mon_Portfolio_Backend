@@ -11,8 +11,6 @@ exports.sendEmail = async (req, res, next) => {
         numberData,
     } = req.body;
 
-    console.log(numberData);
-
     let noFirstNameData = '';
     let noNumberData = '';
 
