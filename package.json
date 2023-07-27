@@ -1,0 +1,23 @@
+{
+    "name": "mon_portfolio_backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Immortalisanto/Mon_Portfolio_Backend.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Immortalisanto/Mon_Portfolio_Backend/issues"
+    },
+    "homepage": "https://github.com/Immortalisanto/Mon_Portfolio_Backend#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nodemon": "^3.0.1"
+    }
+}
