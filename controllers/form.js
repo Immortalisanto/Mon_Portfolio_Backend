@@ -1,5 +1,5 @@
 const sendEmail = require('../utils/sendEmail');
-require('dotenv').config({ path: '../.env.local' });
+require('dotenv').config({ path: './.env.local' });
 
 exports.sendEmail = async (req, res, next) => {
     const {
